@@ -13,7 +13,7 @@ An experimental and simulation-based capstone investigating Mach–Zehnder modul
 
 ---
 
-### 2. [McGill Orbital — CubeSat Design Team](./projects/cubesat/README.md)
+### 2. [McGill OCS — CubeSat Design Team](./projects/cubesat/README.md)
 Served as Director of the McGill Orbital CubeSat Design Team, leading the engineering design and development of a student-built CubeSat. *(Full write-up coming soon)*
 
 ---
