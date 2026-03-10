@@ -36,7 +36,7 @@ The program outputs the assembled G, C, b matrices and attempts a DC solve (x = 
 
 **Result — MNA Matrices:**
 
-![Deliverable 1 Result](./images/D1_result.png)
+<img src="./images/D1_result.jpg" width="800">
 
 ---
 
@@ -64,7 +64,7 @@ R n2 0 50
 
 **Result — DC Operating Point:**
 
-![Deliverable 2 Result](./images/D2_result.png)
+<img src="./images/D2_result.jpg" width="800">
 
 ---
 
