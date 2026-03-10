@@ -46,6 +46,10 @@ R2 n2 0 50
 
 The program outputs the assembled G, C, b matrices and attempts a DC solve (x = G\b) when no dynamic elements are present.
 
+**Result — MNA Matrices:**
+
+![Deliverable 1 Result](./images/D1_result.png)
+
 ---
 
 ## Deliverable 2 — Diode & Inductor Stamps + Nonlinear DC Analysis
@@ -69,6 +73,10 @@ R n2 0 50
 ```
 
 **Expected result:** V1 = 1 V, V2 = 0.2673 V, I_E = 0.0053 A
+
+**Result — DC Operating Point:**
+
+![Deliverable 2 Result](./images/D2_result.png)
 
 ---
 
