@@ -2,7 +2,7 @@
 
 **Electrical Engineering | McGill University**
 
-I am a motivated Electrical Engineering graduate with a passion for space and photonics. This portfolio demonstrates the most notable projects and extracurricular activities that I have been a part of during my undergraduate studies of Electrical Engineering at McGill University.
+I am a motivated Electrical Engineering graduate with a passion for space, photonics and digital electronic design. This portfolio demonstrates the most notable projects and extracurricular activities that I have been a part of during my undergraduate studies of Electrical Engineering at McGill University.
 
 ---
 
