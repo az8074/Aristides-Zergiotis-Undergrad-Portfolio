@@ -11,16 +11,6 @@ The project covers the core mathematical foundations of circuit simulation — f
 
 ---
 
-## Project Structure
-
-```
-mna-simulator/
-├── AriZ_472_D1.m          ← Deliverable 1: MNA matrix generation
-├── AriZ_472_D4.m          ← Deliverable 4: Harmonic Balance (development)
-├── AriZ_472_D4_final.m    ← Deliverable 4: Harmonic Balance (final)
-└── images/                ← Circuit diagrams and simulation results
-```
-
 ---
 
 ## Deliverable 1 — MNA Matrix Assembly
