@@ -11,8 +11,6 @@ The project covers the core mathematical foundations of circuit simulation — f
 
 ---
 
----
-
 ## Deliverable 1 — MNA Matrix Assembly
 
 **Objective:** Parse a SPICE-style netlist and generate the G, C, and b matrices used in MNA.
